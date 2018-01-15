@@ -3,7 +3,7 @@
     "short_name": "Web",
     "description": "Web Community Leaders landing",
     "lang": "en-GB",
-    "start_url": "/",
+    "start_url": "/https://venhrun-petro.github.io/PWApp/",
     "display": "standalone",
     "theme_color": "#E6E6FA",
     "background_color": "#E6E6FA",
