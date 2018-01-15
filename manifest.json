@@ -1,9 +1,9 @@
 {
-  "name": "Prob",
-    "short_name": "Web",
-    "description": "Web Community Leaders landing",
+  "name": "Web Community Leaders UK IE",
+    "short_name": "Web Leaders",
+    "description": "Web Community Leaders landing page",
     "lang": "en-GB",
-    "start_url": "/https://venhrun-petro.github.io/PWApp/",
+    "start_url": "/",
     "display": "standalone",
     "theme_color": "#E6E6FA",
     "background_color": "#E6E6FA",
