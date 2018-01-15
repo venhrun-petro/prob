@@ -1,12 +1,12 @@
 {
-  "name": "Web",
-    "short_name": "Web",
-    "description": "Web",
-    "lang": "en-GB",
-    "start_url": "/",
-    "display": "standalone",
-    "theme_color": "#E6E6FA",
-    "background_color": "#E6E6FA",
+  "name": "Web Community Leaders UK IE",
+  "short_name": "Web Leaders",
+  "description": "Web Community Leaders landing page",
+  "lang": "en-GB",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#E6E6FA",
+  "background_color": "#E6E6FA",
 
  "icons": [
    {
